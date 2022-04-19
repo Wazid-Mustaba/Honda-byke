@@ -1,0 +1,35 @@
+.background-nav{
+    background-color: #264653;
+}
+
+.btn-back{
+    background-color: #E76F51;
+    color: white;
+}
+.gray-s{
+    filter: grayscale(100%);
+}
+span{
+    color: orangered;
+}
+.img-circle{
+    width: 149px;
+    height: 149px;
+    border-radius: 50%;
+}
+.fa-star,
+.fa-star-half-stroke{
+    color: #E77C40;
+}
+.img-height{
+    height: 300px;
+}
+.faq-img{
+    width: 424px;
+    height: 397px;
+}
+
+footer{
+    height: 300px;
+    background-color: #0B0D17;
+}
